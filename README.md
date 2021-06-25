@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @1trilex
-- 👀 I’m interested in ...
+- 👀 I'm interested in development
