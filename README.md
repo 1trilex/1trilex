@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trilex</h1>
 <h3 align="center">A passionate developer from Romania</h3>
 
-- 🔭 I’m currently working on my site [trilex.ro](trilex.ro)
+- 🔭 I’m currently working on my site [<a href="https://trilex.ro">](<a href="https://trilex.ro">)
 
 - 🌱 I’m currently learning **web & php**
 
