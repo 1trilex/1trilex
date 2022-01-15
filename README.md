@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trilex</h1>
 <h3 align="center">A passionate developer from Romania</h3>
 
-- 🔭 I’m currently working on my site **Personal Site**
+- 🔭 I’m currently working on my site [trilex.ro](trilex.ro)
 
 - 🌱 I’m currently learning **web & php**
 
 - 👨‍💻 All of my projects are available at [trilex.ro](trilex.ro)
+
+- 📝 I regularly write articles on [trilex.ro](trilex.ro)
 
 - 📫 How to reach me **discord:Trilex#3588**
 
