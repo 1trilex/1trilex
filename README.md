@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Trilex</h1>
 <h3 align="center">A passionate developer from Romania</h3>
 
-- 🔭 I’m currently working on my site [trilex.ro](https://trilex.ro)
+- 🔭 I’m currently working on my site **[soon]**
 - 🌱 I’m currently learning **web & php**
 
-- 👨‍💻 All of my projects are available at [trilex.ro](https://trilex.ro)
+- 👨‍💻 All of my projects are available at **[soon]**
 
-- 📝 I regularly write articles on [trilex.ro](https://trilex.ro)
+- 📝 I regularly write articles on **[soon]**
 
-- 📫 How to reach me **[trilex.ro](https://trilex.ro)**
+- 📫 How to reach me **[soon]**
 
-- 📄 Know about my experiences [trilex.ro](https://trilex.ro)
+- 📄 Know about my experiences **[soon]**
 
 - ⚡ Fun fact **I think i am funny**
 
