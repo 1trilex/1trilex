@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **web & php**
 
-- 👨‍💻 All of my projects are available at [trilex.ro](trilex.ro)
+- 👨‍💻 All of my projects are available at [trilex.ro](https://trilex.ro)
 
-- 📝 I regularly write articles on [trilex.ro](trilex.ro)
+- 📝 I regularly write articles on [trilex.ro](https://trilex.ro)
 
 - 📫 How to reach me **discord:Trilex#3588**
 
-- 📄 Know about my experiences [trilex.ro](trilex.ro)
+- 📄 Know about my experiences [trilex.ro](https://trilex.ro)
 
 - ⚡ Fun fact **I think i am funny**
 
